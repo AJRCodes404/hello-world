@@ -1,2 +1,2 @@
 # hello-world
-The Hello World GitHub tutorial
+The Hello World GitHub tutorial: https://guides.github.com/activities/hello-world/
